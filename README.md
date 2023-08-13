@@ -12,3 +12,5 @@ This is a single level top-down shooter built in Godot.
 
  - [ ] Music and Sound Effects
  - [ ] Correct menu issues in full-screen
+## How to Run
+Download the executable to run the game without any pre-requisite.
